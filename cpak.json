@@ -4,7 +4,7 @@
   "name": "Remmina",
   "description": "Connect to remote desktops over RDP, VNC and SSH.",
   "version": "1.4.43",
-  "image": "ghcr.io/containerpak/remmina@sha256:e2defa52e0c57e21aac8474103dfec4f02a35253a665ee77ee692b78ef9c45e7",
+  "image": "ghcr.io/containerpak/remmina@sha256:f2387e3ce30eac9de1b38cf9811455d4ee24c6e73bb78c6e647e6598e200e578",
   "binaries": [
     "/usr/bin/remmina"
   ],
